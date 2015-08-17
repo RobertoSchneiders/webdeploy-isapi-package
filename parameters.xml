@@ -1,0 +1,5 @@
+﻿<parameters>
+  <parameter name="IIS Web Application Name" description="Datasnap Server" defaultValue="Default Web Site/datasnap" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="iisApp" match="Default\ Web\ Site/datasnap" />
+  </parameter>
+</parameters>
