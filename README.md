@@ -8,6 +8,8 @@ In fact, you can generate a package like this with the IIS itself. You just need
 
 I tested this package on IIS 8.5 running on a Windows Server 2012 R2 Core.
 
+I wrote a blog post about this: [How to deploy a ISAPI application on AWS Elastic Beanstalk](https://robertocschneiders.wordpress.com/2015/08/17/how-to-deploy-a-isapi-application-on-aws-elastic-beanstalk/)
+
 ### AWS Elastic Beanstalk Deploy Configs
 
 In order to deploy this package on AWS Elastic Beanstalk I have to make some customizations.
